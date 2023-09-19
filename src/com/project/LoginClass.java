@@ -44,7 +44,6 @@ public class LoginClass extends DatabaseConfig implements ActionListener {
 		l2.setFont(new Font("serif", Font.BOLD, 25));
 		l2.setForeground(Color.BLACK);
 		f1.add(l2);
-		
 
 		t1 = new JTextField();
 		t1.setBounds(200, 30, 250, 50);
